@@ -82,7 +82,6 @@ function showMessage(response) {
     dedi.style.display = "block";
     dedi.style.fontStyle = "normal";
 
-    const Joker = document.getElementById("Joker");
     // Remove the "Yes" button
     document.getElementById("yesButton").remove();
   }
